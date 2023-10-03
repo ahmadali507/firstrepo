@@ -1,7 +1,8 @@
 // a program to print name initials using astericks.
 #include<iostream>  
 using namespace std;
-int main()
+int nain()
+
 {
 	// defining the four subjects as varables using int and float
 	int Subject_1 = 60.7, Subject_2 = 100;
